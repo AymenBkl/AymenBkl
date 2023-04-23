@@ -1,22 +1,7 @@
-github profile markdown generator logo
-GitHub Profile README Generator
-Star this repo
-15452
-Fork on GitHub
-4233
-
-back to edit
-
-copy-markdown
-
-download markdown
-
-download backup
-
-preview
+[![MasterHead](https://www.shutterstock.com/image-vector/web-development-banner-icon-business-260nw-1812243436.jpg)](https://rishavchanda.io)
 <h1 align="center">Hi 👋, I'm Aymene Abdelmoumene Boukhelkhal</h1>
 <h3 align="center">Hi, I'm Aymene Abdelmoumene Boukhelkhal, a full stack web developer and computer science engineer with a passion for creating beautiful, intuitive web applications. With 4 years of experience, I've honed my skills in HTML, CSS, JavaScript,Angular and various front-end frameworks to build responsive, user-friendly interfaces. On the back-end, I have expertise in Node.js, Python,PHP and various databases like MySQL, MongoDB, and PostgreSQL. What sets me apart is my ability to combine technical knowledge with a creative eye for design. I strive to create web applications that not only function flawlessly but also look stunning. I believe that the user experience is the heart of any successful web app, and I work tirelessly to ensure that every detail is perfect.</h3>
-
+<img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aymenbkl&label=Profile%20views&color=0e75b6&style=flat" alt="aymenbkl" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=aymenbkl" alt="aymenbkl" /></a> </p>
@@ -48,28 +33,3 @@ preview
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=aymenbkl&show_icons=true&locale=en" alt="aymenbkl" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=aymenbkl&" alt="aymenbkl" /></p>
-
-Support 🙏
-Are you using the tool and happy with it to create your GitHub Profile?
-Your kind support keeps open-source tools like this free for others.
-tweet github profile readme generator
-Let the world know how you feel using this tool. Share with others on twitter.
-Tip💰
-Buy ko-fi for rahuldkjainBuy me a ko-fi
-Donate rahuldkjain via paypal
-Buy rahuldkjain A CoffeeBuy me a coffee
-github profile markdown generator logo
-GitHub Profile README Generator
-Pages
-Addons
-Support
-About
-More
-Github
-Releases
-Issues
-Pull Requests
-Join Community
-Discord of the community
-Developed in India 🇮🇳
-Buy Me A Coffee
