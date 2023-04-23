@@ -13,7 +13,7 @@
 
 - 💬 Ask me about **Angular,ExpressJS,Mongodb**
 
-- 📫 How to reach me **aymenxyz6@gmail.com**
+- 📫 How to reach me **aymen.boukhalkhel@gmail.com**
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/1P1ivWzhE34vrpT9yIy3gvbUyojRPqaXG/view?usp=sharing](https://drive.google.com/file/d/1P1ivWzhE34vrpT9yIy3gvbUyojRPqaXG/view?usp=sharing)
 
